@@ -1,0 +1,6 @@
+to read from java you must.
+Exhilerate from you.
+Show me this.
+Integrate this part.
+for ( int i = 0 ; i < length ; i ++ )
+    disjunctive.
